@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>717760620776-u9qrml7csen58s00k1b1d1bni9lj0b20.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.717760620776-u9qrml7csen58s00k1b1d1bni9lj0b20</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjmRFU80i1J_-AYcmgBFAXvkh4djw6KNQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>717760620776</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mrtouride</string>
+	<key>PROJECT_ID</key>
+	<string>mrtouride</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mrtouride.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:717760620776:ios:62eb69526ebcb493da415d</string>
+</dict>
+</plist>
